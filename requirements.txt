@@ -3,6 +3,6 @@ opencv-python
 torch 
 torchvision 
 matplotlib 
-numpy 
+numpy==1.26.4
 requests 
 Pillow
